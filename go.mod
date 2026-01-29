@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-faker
+module github.com/Yeshwanth-Athmakuri/xk6-faker
 
 go 1.24.0
 
